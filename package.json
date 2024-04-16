@@ -1,0 +1,25 @@
+{
+  "name": "emailcheck",
+  "version": "1.0.0",
+  "description": "A simple package that validates the supplied email address and return it's validity and other informations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monyasau/emailcheck.git"
+  },
+  "keywords": [
+    "email",
+    "regex",
+    "validation",
+    "form"
+  ],
+  "author": "Olanrewaju Olajide Monyasau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monyasau/emailcheck/issues"
+  },
+  "homepage": "https://github.com/monyasau/emailcheck#readme"
+}

@@ -4,4 +4,5 @@ const emailCheck=(data)=>{
     return checkRegex ? "Email is valid": "Email is invalid";
     }
     
-export default emailCheck;
+// export default emailCheck;
+module.exports = emailCheck;

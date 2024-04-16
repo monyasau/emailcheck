@@ -1,6 +1,6 @@
 {
   "name": "@monyasau/emailcheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple package that validates the supplied email address and return it's validity and other informations",
   "main": "index.js",
   "type": "module",

@@ -1,8 +1,10 @@
+// initiated function
 const emailCheck=(data)=>{
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    let checkRegex = emailRegex.test(data);
-    return checkRegex ? "Email is valid": "Email is invalid";
+    
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/; // Implemented regex pattern to validate email format
+    let checkRegex = emailRegex.test(data); // Check provided email to regex pattern
+    return checkRegex ? "Email is valid": "Email is invalid"; //Returns Validity of email
     }
     
-// export default emailCheck;
+// Exported package
 module.exports = emailCheck;

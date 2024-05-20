@@ -87,10 +87,3 @@ Maintaining a consistent code style helps keep the project readable and maintain
 
 - Use meaningful variable and function names.
 - Include comments and documentation where necessary.
-
-### Testing
-
-Write tests for new features and bug fixes to ensure the project remains stable. To run tests:
-
-```sh
-npm test
